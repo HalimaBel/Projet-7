@@ -23,3 +23,12 @@ Pour cela, il m’a suggéré l’utilisation de KNIME. J’aurais donc besoin q
 #### - un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software conforme aux regles du RGPD.
 
 Je te rappelle que les données issues du SIRH ne sont pas anonymisées, alors il faudra les traiter pour que ton rapport respecte le RGPD.
+
+### Objectifs projet 7 : 
+
+- Collecter des données en respectant le RGPD;
+  
+- Préparer des données pour l'analyse en respectant les normes internes à l’entreprise;
+  
+- Transférer des données vers une zone de préparation. 
+
